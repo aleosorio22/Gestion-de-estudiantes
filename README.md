@@ -50,7 +50,7 @@ gestion-estudiantes/
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/usuario/gestion-estudiantes.git
+git clone https://github.com/aleosorio22/gestion-estudiantes.git
 cd gestion-estudiantes
 ```
 
@@ -81,5 +81,5 @@ npm run dev
 
 ## 👨‍💻 Autor
 
-Desarrollado por [Tu Nombre] – Estudiante de Ingeniería en Sistemas.  
+Desarrollado por Alejandro Osorio – Estudiante de Ingeniería en Sistemas.  
 Proyecto académico demostrativo de estructuras de datos aplicadas en React.
